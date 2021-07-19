@@ -1,2 +1,3 @@
-rootProject.name = "Hook"
+include ':hook'
 include ':app'
+rootProject.name = "HookAMS"
